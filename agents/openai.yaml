@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Article Writeback"
+  short_description: "Write de-branded Chinese Knowledge articles."
+  default_prompt: "Use $obsidian-article-writeback to turn this material into a shareable Chinese Obsidian Knowledge article and verify the saved file when writeback is requested."
